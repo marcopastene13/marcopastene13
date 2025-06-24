@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Asad-app](https://github.com/4GeeksAcademy/Proyecto-Final-asad-app)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **BootStrap, React, Css.**
 
