@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Pastene Santander</h1>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
-- 🔭 I’m currently working on [Asad-app](https://github.com/4GeeksAcademy/Proyecto-Final-asad-app)
+- 🔭 I’m currently working on [Centro Psicologico web](https://github.com/marcopastene13/centro-psicologico)
 
 - 🌱 I’m currently learning **Angular**
 
