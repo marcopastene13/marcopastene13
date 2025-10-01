@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mpastene1996@outlook.com**
 
-- 📄 Know about my experiences Curriculum Vitae(https://flowcv.com/resume/w9s2a4rhargs)
+- 📄 Know about my experiences [Curriculum Vitae](https://flowcv.com/resume/w9s2a4rhargs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
